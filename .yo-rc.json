@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.messenger.api"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "messenger",
+    "packageName": "com.messenger.api",
+    "packageFolder": "com/messenger/api",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "redis",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YTRhMjI1MjIyZGJkNWY1Y2IwZGM4ZTZiNjJlZWZmNDA4NDkxZDZkMWI1YTk1YzQ1Y2JhOTRjMjI2MTNmMzUwMGM3NjgzYWY5OTk1Mzc4N2U3NWQ4OTE5NGZjMmNiMjczYjAzZmFlNzNkYzNiNjMyODNjZTRlYTAwNjg5ZDA2MzI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "spacelab",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1597434653305,
+    "testFrameworks": ["gatling"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
